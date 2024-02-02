@@ -7,5 +7,5 @@ This is an online note-sharing platform!
 
 - ## including:
 - Hundreds of notes in Alevel Mathematics and Physics to help u learning!
-- Notes for Math and CS courses in University of Waterloo.
+- Notes for Math and CS courses in University of Waterloo. Including but not limited to CS, Combinatorics and Optimization, Pure Math, Cryptography, Statistics.
 - A cargame for u to take a break after study.
