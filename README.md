@@ -5,7 +5,7 @@ This is an online note-sharing platform!
 - Built by HTML, CSS, Javascript and PHP
 - Also we ued SQL to build up a comment section to gather users’ feedback and experience, continuously improving platform functionality.
 
-- ## including:
+## including:
 - Hundreds of notes in Alevel Mathematics and Physics to help u learning!
 - Notes for Math and CS courses in University of Waterloo. Including but not limited to CS, Combinatorics and Optimization, Pure Math, Cryptography, Statistics.
-- A cargame for u to take a break after study.
+- Also we have built a cargame by Javascript for u to take a break after study.
